@@ -1,2 +1,2 @@
 # hands-on-ai
-code examples for the Hands-on AI for High-Performance Leaders courses
+code examples for the [Hands-on AI for Leaders course](https://maven.com/james-gray/hands-on-ai-for-leaders)
